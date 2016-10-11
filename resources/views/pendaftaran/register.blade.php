@@ -54,7 +54,7 @@
 			<br>
 
 			<div class="center">
-				Kembali ke <a href="#">Daftar Pelatihan</a>
+				Kembali ke <a href="#">Home</a>
 			</div>
 
 		</div>
