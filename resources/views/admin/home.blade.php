@@ -35,7 +35,7 @@
 				<p>Kalau tidak bisa hubungi: Irfan Hanif atau Nafiar Rahmansyah</p>
 			</div>
 			<div class="modal-footer">
-				<a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Okay</a>
+				<a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat">Syip</a>
 			</div>
 		</div>
 		</div>
