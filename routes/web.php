@@ -22,7 +22,7 @@ Route::get('/home', function(){
 Route::post('/berkas', 'userController@show');
 
 
-Rooute::get('/home', 'homeController@show');
+Route::get('/home', 'homeController@show');
 Route::get('/register', function(){
 	return view('pendaftaran.register');
 });
@@ -61,4 +61,9 @@ Route::get('/belajarphp', function(){
 	$str[$index] = $statusBerkas3[1];	
 	echo $str;
 */
+});
+
+//Routing sementara
+Route::get('/admin', function(){
+	return view('admin.home');
 });
