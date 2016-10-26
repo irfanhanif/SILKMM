@@ -9,7 +9,8 @@
 			<hr><br>
 
 			<i>Isi data di bawah ini dengan benar. Pastikan berkas di upload dengan format (.zip)</i><br>
-			<form action="#" method="post">
+			<form action="{{ url('/berkas')}}" method="post">
+				{{ csrf_field() }}
 				<div class="input-field">
 					<i class="material-icons prefix">perm_identity</i>
 					<input type="text" id="pelatihan" name="pelatihan" class="validate" value="PP LKMM IX FTIf" disabled>

@@ -8,7 +8,7 @@
   <div class="row">
     <h4 class="center">Pilih Pelatihan</h4><hr>
 
-  	@for($i=0; $i<6; $i++)
+  	@for($i=0; $i<6; $i++)-->
     <div class="col s12 m4 l4">
       <div class="card">
         <div class="card-content">
